@@ -49,7 +49,7 @@ lib/
 
 ### Prerequisites
 
-Make sure you have installed:
+Make sure youi nstalled:
 
 * Flutter SDK
 * Dart SDK
