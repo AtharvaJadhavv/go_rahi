@@ -114,7 +114,7 @@ https://github.com/AtharvaJadhavv
 
 ## 📌 Future Improvements
 
-* Live GPS Tracking
+* Live GPS Tracking with NFC CODE
 * Real-time Chat
 * Firebase Integration
 * Google Maps Integration
