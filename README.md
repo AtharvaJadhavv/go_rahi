@@ -14,7 +14,7 @@ Go_Rahi is a cross-platform Flutter application designed to provide a smooth and
 * 📄 Document Management
 * 🤝 Community Features
 * 🆘 Support & Help Center
-* 🌐 Cross-platform Support (Android, iOS, Web, macOS, Windows, Linux)
+* 🌐 Cross-platform Support (Android, iOS, Web, macOS, Windows)
 
 ---
 
