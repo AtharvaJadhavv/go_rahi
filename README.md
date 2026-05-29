@@ -1,6 +1,6 @@
 # 🚗 Go_Rahi
 
-Go_Rahi is a cross-platform Flutter application designed to provide a smooth and smart travel/community experience for users. The app includes features like route delivery support, user profiles, community interaction, document handling, and support services.
+Go_Rahi is a cross-platform Flutter application designed to provide a smooth and smart travel/community experience for users. The app includes features like route various delivery support, user profiles, community interaction, document handling, and support services.
 
 ---
 
